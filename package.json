@@ -16,7 +16,7 @@
     "url": "https://github.com/sf-wdi-14/iterators/issues"
   },
   "homepage": "https://github.com/sf-wdi-14/iterators",
-  "devDependencies": {
+  "dependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.0.1"
   }
